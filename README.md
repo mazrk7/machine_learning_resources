@@ -1,4 +1,4 @@
-# EECE5644_IntroMLPR_LectureCode_Summer1
+# EECE5644_IntroMLPR_LectureCode_Summer2
 
 Code to complement lectures of the _"EECE 5644: Introduction to Machine Learning and Pattern Recognition"_ course taught at Northeastern University.
 
