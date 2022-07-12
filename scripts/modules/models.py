@@ -7,7 +7,7 @@ import numpy as np
 np.set_printoptions(suppress=True)
 
 
-from scripts.modules import data_utils
+from modules import data_utils
 
 
 def analytical_ls_solution(X, y):
