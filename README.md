@@ -43,3 +43,7 @@ Please note that these environments were generated for the **Python 3.8.13** rel
 
 Setting up interactive plots in jupyter
 `ipympl` enables the interactive features of matplotlib in the Jupyter notebook. Instructions are in its [official repo](https://github.com/matplotlib/ipympl).
+
+## Further Reading
+
+Many of the code and examples presented in this repository take inspiration from [Kevin Murphy's "Probabilistic Machine Learning: An Introduction", 2022 book](https://probml.github.io/pml-book/book1.html). I highly recommend this book for further reading.
