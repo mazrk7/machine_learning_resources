@@ -1,21 +1,22 @@
-# EECE5644_IntroMLPR_LectureCode_Summer2
+# EECE5644_IntroMLPR_LectureCode
 
-Code to complement lectures of the _"EECE 5644: Introduction to Machine Learning and Pattern Recognition"_ course taught at Northeastern University.
+Code to complement the _"EECE 5644: Introduction to Machine Learning and Pattern Recognition"_ course taught at Northeastern University over the Summer 2022 semesters. You can find some of the lectures publicly available at [this webpage](https://markzolotas.com/introduction-to-machine-learning-pattern-recognition/).
 
-Please contact the lecturer **Mark Zolotas** about any questions concering the repository: m.zolotas@northeastern.edu
+Please contact the lecturer [Mark Zolotas](https://markzolotas.com/contact/) about any questions concerning the repository.
 
 ## Directory Layout
 
-- `scripts/modules` contains a library of Python modules for basic machine learning functions.
+- `data` to hold any datasets used by models in the codebase, which is purposefully not Git tracked to avoid a large repository.
+- `docs` have question sheets for any course assignments, adapted from the previous professor's (Deniz Erdogmus) original homeworks.
+- `matlab` for Matlab code that replicates _some_ of the Python implementations.
 - `notebooks` consists of Jupyter Notebook files that walk through examples with both mathematical formulation and programming implementation.
-- `scripts` are example Python programs that test the functionality provided by the `modules` library.
-- `matlab` contains Matlab code to complement the Python implementation in this repository. Developed by previous professor, Deniz Erdogmus.
+- `scripts` are example Python programs that test the functionality provided by the `modules` library. These examples are less complete than the Notebooks.
 
 ## Getting Started
 
 You can "clone" this Git repository into your workspace, by running the following command:
 ```
-git clone https://github.com/mazrk7/EECE5644_IntroMLPR_LectureCode_Summer2.git
+git clone https://github.com/mazrk7/EECE5644_IntroMLPR_LectureCode.git
 ```
 If you wish to "pull" any updates I make to this repository over time, run:
 ```
