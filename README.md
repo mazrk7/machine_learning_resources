@@ -47,4 +47,4 @@ Setting up interactive plots in jupyter
 
 ## Further Reading
 
-Many of the code and examples presented in this repository take inspiration from [Kevin Murphy's "Probabilistic Machine Learning: An Introduction", 2022 book](https://probml.github.io/pml-book/book1.html). I highly recommend this book for further reading.
+Many of the code and examples presented in this repository take inspiration from [Kevin Murphy's "Probabilistic Machine Learning: An Introduction" 2022 book](https://probml.github.io/pml-book/book1.html). I highly recommend this book for further reading.
