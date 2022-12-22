@@ -9,6 +9,7 @@ Please contact the lecturer [Mark Zolotas](https://markzolotas.com/contact/) abo
 - `data` to hold any datasets used by models in the codebase, which is purposefully not Git tracked to avoid a large repository.
 - `docs` have question sheets for any course assignments, adapted from the previous professor's (Deniz Erdogmus) original homeworks.
 - `matlab` for Matlab code that replicates _some_ of the Python implementations.
+- `models` to store trained models for re-use during inference.
 - `notebooks` consists of Jupyter Notebook files that walk through examples with both mathematical formulation and programming implementation.
 - `scripts` are example Python programs that test the functionality provided by the `modules` library. These examples are less complete than the Notebooks.
 
