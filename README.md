@@ -1,8 +1,8 @@
-# EECE5644_IntroMLPR_LectureCode
+# Machine Learning Resources
 
-Code to complement the _"EECE 5644: Introduction to Machine Learning and Pattern Recognition"_ course taught at Northeastern University over the Summer 2022 semesters. You can find some of the lectures publicly available at [this webpage](https://markzolotas.com/introduction-to-machine-learning-pattern-recognition/).
+Machine learning resources primarily in the form of Jupyter notebooks. This repository was originally developed to complement the _"EECE 5644: Introduction to Machine Learning and Pattern Recognition"_ course taught at Northeastern University over the Summer 2022 semesters. You can find some of the lectures publicly available at [this webpage](https://markzolotas.com/introduction-to-machine-learning-pattern-recognition/).
 
-Please contact the lecturer [Mark Zolotas](https://markzolotas.com/contact/) about any questions concerning the repository.
+Please contact [Mark Zolotas](https://markzolotas.com/contact/) about any questions concerning the repository.
 
 ## Directory Layout
 
@@ -17,7 +17,7 @@ Please contact the lecturer [Mark Zolotas](https://markzolotas.com/contact/) abo
 
 You can "clone" this Git repository into your workspace, by running the following command:
 ```
-git clone https://github.com/mazrk7/EECE5644_IntroMLPR_LectureCode.git
+git clone https://github.com/mazrk7/machine_learning_resources.git
 ```
 If you wish to "pull" any updates I make to this repository over time, run:
 ```
