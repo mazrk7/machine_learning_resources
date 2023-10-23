@@ -41,11 +41,11 @@ Or by creating a Conda environment from my provided `yaml` file:
 ```
 conda env create -f environment.yaml
 ```
-Please note that these environments were generated for the **Python 3.8.13** release and may require dependency consolidation if you use another Python version.
+Please note that these environments were generated for the **Python 3.11.5** release and may require dependency consolidation if you use another Python version.
 
 Setting up interactive plots in jupyter
 `ipympl` enables the interactive features of matplotlib in the Jupyter notebook. Instructions are in its [official repo](https://github.com/matplotlib/ipympl).
 
 ## Further Reading
 
-Many of the code and examples presented in this repository take inspiration from [Kevin Murphy's "Probabilistic Machine Learning: An Introduction" 2022 book](https://probml.github.io/pml-book/book1.html). I highly recommend this book for further reading.
+Many of the code and examples presented in this repository take inspiration from Kevin Murphy's ["Probabilistic Machine Learning: An Introduction"](https://probml.github.io/pml-book/book1.html) and ["PML: Advanced Topics"](https://probml.github.io/pml-book/book2.html) books. I highly recommend these books for further reading.
